@@ -6,8 +6,5 @@ The goal is to visualize stock trends, apply moving averages, and identify insig
 - pandas, numpy  
 - matplotlib, seaborn, plotly
 
-##  Files Included
-- `Apple.ipynb` – Main notebook with code and visuals
-
 ## Note
 Run the notebook in Jupyter or Colab to view interactive charts and outputs.
