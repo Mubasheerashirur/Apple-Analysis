@@ -9,5 +9,10 @@ The goal is to visualize stock trends, apply moving averages, and identify insig
 - seaborn: For statistical data visualization.
 - plotly: For interactive charts.
 
+## Instructions
+- Clone the repository or download the notebook.
+- Open the notebook in Google Colab or Jupyter Notebook.
+- Run the cells to generate the analysis and interactive visualizations.
+  
 ## Note
 Run the notebook in Jupyter or Colab to view interactive charts and outputs.
