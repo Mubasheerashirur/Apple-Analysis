@@ -13,4 +13,6 @@ The goal is to visualize stock trends, apply moving averages, and identify insig
 - Clone the repository or download the notebook.
 - Open the notebook in Google Colab or Jupyter Notebook.
 - Run the cells to generate the analysis and interactive visualizations.
-  
+
+## Conclusion
+This analysis visualizes Apple’s stock trends and applies moving averages and technical indicators to uncover key market patterns. The interactive visualizations provide valuable insights, aiding in informed decision-making and further investment analysis.
